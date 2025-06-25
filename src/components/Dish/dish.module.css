@@ -5,8 +5,7 @@
   padding: 1rem;
   font-family: "Segoe UI", sans-serif;
   color: #3a4a3f;
-  transition: transform 0.3s ease,
-    transform 0.6s cubic-bezier(0.68, -0.6, 0.32, 1.6);
+  transition: transform all 0.6s cubic-bezier(0.68, -0.6, 0.32, 1.6);
   /* Denne har jeg herifra: https://easings.net/#easeInOutBack */
 }
 
