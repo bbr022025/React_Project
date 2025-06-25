@@ -1,4 +1,4 @@
-import Dish from "./Dish";
+import Dish from "../Dish/Dish";
 import styles from "./menu.module.css";
 
 function Menu({ meny }) {
